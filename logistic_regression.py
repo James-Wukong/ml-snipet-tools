@@ -44,3 +44,5 @@ for p in patient_data:
 print(joint_likelihood) 
 
 # 4.7911180221699105e-05
+
+...
