@@ -1,3 +1,6 @@
+# find more detail on
+# https://careerfoundry.com/en/blog/data-analytics/how-to-find-outliers/
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
